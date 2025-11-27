@@ -1,0 +1,5 @@
+{
+  "name": "CARE - Advanced NGO Platform",
+  "description": "A high-fidelity, 3D-styled SPA for the CARE NGO, featuring dynamic content generation via Gemini, appointment booking with simulated email notifications, and interactive impact visualization.",
+  "requestFramePermissions": []
+}
