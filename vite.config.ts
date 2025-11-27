@@ -9,9 +9,7 @@ export default defineConfig(({ mode }) => {
     server: {
       port: 3000,
       host: '0.0.0.0',
-      allowedHosts: [
-        'care-website.onrender.com'   // ✅ Add this line
-      ]
+      allowedHosts: true    // 🔥 allow ALL hosts
     },
 
     plugins: [react()],
